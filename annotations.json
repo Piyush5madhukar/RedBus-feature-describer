@@ -1,0 +1,58 @@
+[
+    {
+        "image": "/content/sample_data/images/image1.jpeg",
+        "description": "Redbus booking opening page..when app open this is shown with logo for 2 seconds."
+    },
+    {
+        "image": "/content/sample_data/images/image2.jpeg",
+        "description": "This section shows ths source from which bus will start its journey from source only.user will have to choose source and then destination"
+    },
+    {
+        "image": "/content/sample_data/images/image3.jpeg",
+        "description": "this section shows the destination till where journey will complete. the payment of journey will depend on the distance between source and destination."
+    },
+    {
+        "image": "/content/sample_data/images/image4.jpeg",
+        "description": "This section shows the date on which the user will travel. the date and time will be given to user once payment is confirmed ,the next day and today slots will be availaible from here"
+    },
+    {
+        "image": "/content/sample_data/images/image5.jpeg",
+        "description": "this section consists of source data ,destination data as well as date or travel after which user can select and choose for buses"
+    },
+    {
+        "image": "/content/sample_data/images/image6.jpeg",
+        "description": "this section shows the list of availaible buses on the booked date  thier starting jounery ,end journey ,as well total journey  + number of seats in each bus+ name of bus+type of bus ac/non ac and rating of the bus along with its price and ticket"
+    },
+    {
+        "image": "/content/sample_data/images/image7.jpeg",
+        "description": "this section is the seat booking section where all the avaible seats are seen all the green seats are empty and user can opt for any seat availaible here ,decker seat have higher price as comapred to lower seats"
+    },
+    {
+        "image":"/content/sample_data/images/image8.jpeg",
+        "description": "this section is the boarding point section which tell the pickup point of the bus where customer should reach in determined time and also given the dropping location of the destination adress"
+    },
+    {
+        "image": "/content/sample_data/images/image9.jpeg",
+        "description": "these are the contact details of the user along with its name email id ,phone number and hometown of the user booking the ticket"
+    },
+    {
+        "image": "/content/sample_data/images/image10.jpeg",
+        "description": "This section consist the passenger details the number of people travelling the bus along with its name and gender and age in years"
+    },
+    {
+        "image": "/content/sample_data/images/image11.jpeg",
+        "description": "This section is the redbus assurance offer where they offer insurance to user with terms and conditions ."
+    },
+    {
+        "image": "/content/sample_data/images/image12.jpeg",
+        "description": "this section is the pay section that shows the final amount that will be taken for journey ."
+    },
+    {
+        "image": "/content/sample_data/images/image13.jpeg",
+        "description": "This section is the choice of mode of payment opted to pay the journey fees ,options will be upi,debit card,credit card,net banking etc"
+    },
+    {
+        "image": "/content/sample_data/images/image14.jpeg",
+        "description": "it asks if the user has some coupon to apply discount to final order money and This section is the choice of mode of payment opted to pay the journey fees ,options will be upi,debit card,credit card,net banking etc"
+    }
+]
